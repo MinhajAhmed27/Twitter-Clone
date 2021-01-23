@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterCloneApp</string>
+    <string name="register">Register</string>
+    <string name="action_sign_in">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+</resources>
