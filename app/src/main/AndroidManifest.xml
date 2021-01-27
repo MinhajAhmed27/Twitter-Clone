@@ -3,13 +3,13 @@
     package="com.example.twittercloneapp">
 <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <application
         android:allowBackup="true"
         android:icon="@drawable/tweets"
         android:label="@string/app_name"
         android:roundIcon="@drawable/tweets"
         android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Register"></activity>
         <activity
